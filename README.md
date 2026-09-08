@@ -1,5 +1,11 @@
 # rwc
 
+> [!WARNING]  
+> This project has moved to:
+> [https://github.com/DafexDV/rust-linux-utils](https://github.com/DafexDV/rust-linux-utils)
+> 
+> This repository is archieved and no loger maintained.
+
 A small Rust CLI that recreates the basic functionality of the Linux `wc` command.
 
 ## Installation
